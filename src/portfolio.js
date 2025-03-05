@@ -47,12 +47,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "SOFTWARE DEVELOPER WHO WANTS TO EXPLORE MORE",
   skills: [
-    emoji(
-      "⚡ Building Softwares using object-oriented programming"
-    ),
-    emoji(
-      "⚡ Building responsive Single-Page-Apps (SPA) with Vue / Angular"
-    ),
+    emoji("⚡ Building Softwares using object-oriented programming"),
+    emoji("⚡ Building responsive Single-Page-Apps (SPA) with Vue / Angular"),
     emoji("⚡ Building RESTful APIs with Spring Boot Framework"),
     emoji("⚡ Building Mobile Application using Flutter"),
     emoji("⚡ Building CI/CD pipelines for automated testing & deployment")
@@ -109,8 +105,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Bitbucket",
       fontAwesomeClassname: "fab fa-bitbucket"
-    },
-
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -125,8 +120,7 @@ const educationInfo = {
       logo: require("./assets/images/tuda_logo.jpg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "October 2019 - October 2024",
-      desc: "Tutor, Internships and 2 Working Student",
-
+      desc: "Tutor, Internships and 2 Working Student"
     }
   ]
 };
@@ -162,14 +156,14 @@ const workExperiences = {
       company: "Technische Universität Darmstadt",
       companylogo: require("./assets/images/tuda_logo.jpg"),
       date: "10.2021 - 03.2022",
-      desc: "Leading mathe 1 group sessions, grading homework, and exams",
+      desc: "Leading mathe 1 group sessions, grading homework, and exams"
     },
     {
       role: "Developer - Internship",
       company: "Technische Universität Darmstadt",
       companylogo: require("./assets/images/tuda_logo.jpg"),
       date: "10.2021 - 03.2022",
-      desc: "Leading mathe 1 group sessions, grading homework, and exams",
+      desc: "Leading mathe 1 group sessions, grading homework, and exams"
     },
     {
       role: "Developer - Internship",
@@ -286,7 +280,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        { name: "Certification", url: "" },
+        {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
@@ -364,8 +358,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Reach out to me!"),
-  subtitle:
-    "Darmstadt, Germany",
+  subtitle: "Darmstadt, Germany",
   number: "+49 17663499271",
   email_address: "anas-attia@hotmail.com"
 };

@@ -39,10 +39,10 @@ function Header() {
           <span className={isDark ? "navicon navicon-dark" : "navicon"}></span>
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
-            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-            <a>
-              <ToggleSwitch />
-            </a>
+          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+          <a>
+            <ToggleSwitch />
+          </a>
         </ul>
       </header>
     </Headroom>
