@@ -63,11 +63,11 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -75,11 +75,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "vuejs",
+      skillName: "VueJs",
       fontAwesomeClassname: "fab fa-vuejs"
     },
     {
-      skillName: "angular",
+      skillName: "Angular",
       fontAwesomeClassname: "fab fa-angular"
     },
     {
@@ -91,23 +91,23 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "firebase",
+      skillName: "Firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     },
     {
-      skillName: "jira",
+      skillName: "Jira",
       fontAwesomeClassname: "fab fa-jira"
     },
     {
-      skillName: "jenkins",
+      skillName: "Jenkins",
       fontAwesomeClassname: "fab fa-jenkins"
     },
     {
-      skillName: "bitbucket",
+      skillName: "Bitbucket",
       fontAwesomeClassname: "fab fa-bitbucket"
     },
 
