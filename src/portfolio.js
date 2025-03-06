@@ -156,14 +156,14 @@ const workExperiences = {
       company: "Technische Universität Darmstadt",
       companylogo: require("./assets/images/tuda_logo.jpg"),
       date: "10.2021 - 03.2022",
-      desc: "Leading mathe 1 group sessions, grading homework, and exams"
+      desc: "Leading mathe 1 group sessions, grading homework, and exams."
     },
     {
       role: "Developer - Internship",
       company: "Technische Universität Darmstadt",
       companylogo: require("./assets/images/tuda_logo.jpg"),
       date: "10.2021 - 03.2022",
-      desc: "Leading mathe 1 group sessions, grading homework, and exams"
+      desc: "Responsible for UI dev of web Interface, which contains movement of Robot using communication with backend."
     },
     {
       role: "Developer - Internship",
@@ -194,7 +194,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
