@@ -23,10 +23,10 @@ const greeting = {
   username: "Anas Attia",
   title: "Hi all, I'm Anas",
   subTitle: emoji(
-    "I’m a Software Developer with a growing knowledge in designing and developing web applications using Vue.js, JavaScript as well as Spring Boot and Angular. I also have experience building mobile applications using Flutter. I am strongly interested in learning new technologies and applying them to create solutions."
+    "I’m a Software Developer with a growing knowledge in designing and developing applications using Vue.js, JavaScript as well as Spring Boot and Angular. I also have experience building mobile applications using Flutter. I am strongly interested in learning new technologies and applying them to create solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1hP-urXuHXNFETTJ77dufFHC6KHXqc42h/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KChjT2m7-zohMRYpwUtJO-Zhi4CmwMeY/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/anas-attia-038a32351/",
   instagram: "https://www.instagram.com/anasattia._/",
-  gmail: "anas-attia@hotmail.com",
+  gmail: "anas.attia123456789@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -121,6 +121,13 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "October 2019 - October 2024",
       desc: "Tutor, Internships and 2 Working Student"
+    },
+    {
+      schoolName: "Pioneer School of Sousse",
+      logo: require("./assets/images/lps.jpg"),
+      subHeader: "High School Diploma",
+      duration: "September 2014 - Juni 2018",
+      desc: "Technical field"
     }
   ]
 };
