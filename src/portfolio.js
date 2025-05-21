@@ -25,6 +25,7 @@ const greeting = {
   subTitle: emoji(
     "I’m a Software Developer with a growing knowledge in designing and developing applications using Vue.js, JavaScript as well as Spring Boot and Angular. I also have experience building mobile applications using Flutter. I am strongly interested in learning new technologies and applying them to create solutions."
   ),
+  
   resumeLink:
     "https://drive.google.com/file/d/1KChjT2m7-zohMRYpwUtJO-Zhi4CmwMeY/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
