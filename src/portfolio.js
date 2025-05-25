@@ -26,7 +26,7 @@ const greeting = {
     "I’m a Software Developer with a growing knowledge in designing and developing applications using Vue.js, JavaScript as well as Spring Boot and Angular. I also have experience building mobile applications using Flutter. I am strongly interested in learning new technologies and applying them to create solutions."
   ),
   resumeLink:
-    "https://drive.google.com/uc?export=download&id=1hP-urXuHXNFETTJ77dufFHC6KHXqc42h", // Set to empty to hide the button
+    "https://docs.google.com/presentation/d/1dlLZzOvaykRB1yw96MFkyxnlGcilhPIm7H5tTzdwHkg/export/pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
